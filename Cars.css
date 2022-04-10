@@ -100,6 +100,8 @@ h6{
 
 ol{
   border: 1px solid black;
+  padding-right: 2px;
+  padding-bottom: 12px;
   
 }
 
@@ -108,4 +110,12 @@ ol{
   font-weight: 700;
   color: black;
   border-bottom: solid black 0.5px;
+}
+
+.box{
+  padding-left: 2px;
+  display: flex;
+  align-items: center;
+  flex-direction:row
+
 }
