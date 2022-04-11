@@ -1,6 +1,8 @@
 body{
   padding: 25px;
   font-family:Arial;
+  margin-left: 15px;
+  margin-right: 75px;
 }
 .tophead {
   overflow: hidden;
@@ -103,6 +105,15 @@ ol{
   padding-right: 2px;
   padding-bottom: 12px;
   
+}
+ol li{
+  padding-bottom: 10px;
+padding-right: 10px;
+}
+
+ol p{
+  text-decoration: underline;
+  font-weight: bolder;
 }
 
 #safety{
